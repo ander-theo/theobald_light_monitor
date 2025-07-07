@@ -1,6 +1,5 @@
 Light Monitor
-A command line application for monitoring changes to a simulated lighting system through the Josh.AI Lights API
-
+A command line application for monitoring changes to a simulated lighting system
 Build From Source and Run:
 1. Make sure the server is running on localhost port 8080
 
